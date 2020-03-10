@@ -7717,7 +7717,8 @@
         ],
         "type": "MultiPolygon",
         "properties": {
-          "continent": "Oceania"
+          "continent": "Oceania",
+          "id": "APAC"
         }
       }, {
         "arcs": [
@@ -7925,7 +7926,8 @@
         ],
         "type": "MultiPolygon",
         "properties": {
-          "continent": "North America"
+          "continent": "North America",
+          "id": "USA"
         }
       }, {
         "arcs": [
@@ -8022,7 +8024,8 @@
         ],
         "type": "MultiPolygon",
         "properties": {
-          "continent": "Europe"
+          "continent": "Europe",
+          "id": "EMEA"
         }
       }, {
         "arcs": [
@@ -8263,7 +8266,8 @@
         ],
         "type": "MultiPolygon",
         "properties": {
-          "continent": "Asia"
+          "continent": "Asia",
+          "id": "APAC"
         }
       }, {
         "arcs": [
@@ -8288,7 +8292,8 @@
         ],
         "type": "MultiPolygon",
         "properties": {
-          "continent": "Africa"
+          "continent": "Africa",
+          "id": ""
         }
       }, {
         "arcs": [
@@ -8379,7 +8384,8 @@
         ],
         "type": "MultiPolygon",
         "properties": {
-          "continent": "Oceania"
+          "continent": "Oceania",
+          "id": "APAC"
         }
       }, {
         "arcs": [
@@ -8587,7 +8593,8 @@
         ],
         "type": "MultiPolygon",
         "properties": {
-          "continent": "North America"
+          "continent": "North America",
+          "id": "USA"
         }
       }, {
         "arcs": [
@@ -8684,7 +8691,8 @@
         ],
         "type": "MultiPolygon",
         "properties": {
-          "continent": "Europe"
+          "continent": "Europe",
+          "id": "EMEA"
         }
       }, {
         "arcs": [
@@ -8925,7 +8933,8 @@
         ],
         "type": "MultiPolygon",
         "properties": {
-          "continent": "Asia"
+          "continent": "Asia",
+          "id": "APAC"
         }
       }, {
         "arcs": [
@@ -8950,7 +8959,8 @@
         ],
         "type": "MultiPolygon",
         "properties": {
-          "continent": "Africa"
+          "continent": "Africa",
+          "id": ""
         }
       }]
     }

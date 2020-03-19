@@ -277,7 +277,7 @@
      293,
      294]]]},
  {"type": "Polygon",
-  "properties": {"name": "CÃ´te d'Ivoire", "id": "EMEA"},
+  "properties": {"name": "Cote d'Ivoire", "id": "EMEA"},
   "id": "CIV",
   "arcs": [[-89, 295, 296, 297, 298, 299]]},
  {"type": "Polygon",

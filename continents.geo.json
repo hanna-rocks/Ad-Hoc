@@ -4,1206 +4,3392 @@
     "countries": {
       "bbox": [-179.99999999999986, -55.52450937299982, 180.00000000000014, 83.61347077000005],
       "type": "GeometryCollection",
-      "geometries": [{"type": "Polygon",
-  "properties": {"name": "Afghanistan"},
-  "arcs": [[0, 1, 2, 3, 4, 5]],
-  "id": "APAC"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Angola"},
-  "arcs": [[[6, 7, 8, 9]], [[10, 11, 12]]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Albania"},
-  "arcs": [[13, 14, 15, 16, 17, 18, 19, 20]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Aland"},
-  "arcs": [[21]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Andorra"},
-  "arcs": [[22, 23]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "United Arab Emirates"},
-  "arcs": [[24, 25, 26, 27, 28]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Argentina"},
-  "arcs": [[[29, 30]], [[31, 32, 33, 34, 35, 36]]],
-  "id": "LATAM"},
- {"type": "Polygon",
-  "properties": {"name": "Armenia"},
-  "arcs": [[37, 38, 39, 40, 41]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Australia"},
-  "arcs": [[[43]],
-   [[44]],
-   [[45]],
-   [[46]],
-   [[47]],
-   [[48]],
-   [[49]],
-   [[50]],
-   [[51]],
-   [[52]],
-   [[53]],
-   [[54]]],
-  "id": "APAC"},
- {"type": "Polygon",
-  "properties": {"name": "Austria"},
-  "arcs": [[55, 56, 57, 58, 59, 60, 61, 62]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Azerbaijan"},
-  "arcs": [[[63, 64, -40]], [[65, 66, 67, -38, 68]]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Burundi"},
-  "arcs": [[69, 70, 71, 72]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Belgium"},
-  "arcs": [[73, 74, 75, 76, 77, 78, 79]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Benin"},
-  "arcs": [[80, 81, 82, 83, 84]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Burkina Faso"},
-  "arcs": [[85, -84, 86, 87, 88, 89]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Bangladesh"},
-  "arcs": [[[90]], [[91, 92, 93]]],
-  "id": "APAC"},
- {"type": "Polygon",
-  "properties": {"name": "Bulgaria"},
-  "arcs": [[94, 95, 96, 97, 98, 99]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Bahamas"},
-  "arcs": [[[100]], [[101]], [[102]], [[103]]],
-  "id": "LATAM"},
- {"type": "Polygon",
-  "properties": {"name": "Bosnia and Herz."},
-  "arcs": [[104, 105, 106, 107]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Belarus"},
-  "arcs": [[108, 109, 110, 111, 112]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Belize"},
-  "arcs": [[113, 114, 115]],
-  "id": "LATAM"},
- {"type": "Polygon",
-  "properties": {"name": "Bolivia"},
-  "arcs": [[116, -37, 117, 118, 119, 120, 121]],
-  "id": "LATAM"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Brazil"},
-  "arcs": [[[122]],
-   [[123]],
-   [[124]],
-   [[125]],
-   [[126]],
-   [[127]],
-   [[128]],
-   [[129]],
-   [[130,
-     131,
-     132,
-     133,
-     134,
-     135,
-     -33,
-     136,
-     137,
-     138,
-     -122,
-     139,
-     140,
-     141,
-     142]]],
-  "id": "LATAM"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Brunei"},
-  "arcs": [[[143, 144]], [[145, 146]]],
-  "id": "APAC"},
- {"type": "Polygon",
-  "properties": {"name": "Bhutan"},
-  "arcs": [[147, 148]],
-  "id": "APAC"},
- {"type": "Polygon",
-  "properties": {"name": "Botswana"},
-  "arcs": [[149, 150, 151]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Central African Rep."},
-  "arcs": [[152, 153, 154, 155, 156, 157]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Canada"},
-  "arcs": [[[158]],
-   [[159]],
-   [[160]],
-   [[161, 162, 163, 164]],
-   [[165]],
-   [[166]],
-   [[167]],
-   [[168]],
-   [[169]],
-   [[170]],
-   [[171]],
-   [[172]],
-   [[173]],
-   [[174]],
-   [[175]],
-   [[176]],
-   [[177]],
-   [[178]],
-   [[179]],
-   [[180]],
-   [[181]],
-   [[182]],
-   [[183]],
-   [[184]],
-   [[185]],
-   [[186]],
-   [[187]],
-   [[188]],
-   [[189]],
-   [[190]],
-   [[191]],
-   [[192]],
-   [[193]],
-   [[194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205]],
-   [[206]],
-   [[207]],
-   [[208]],
-   [[209]],
-   [[210]],
-   [[211]],
-   [[212]],
-   [[213]],
-   [[214]],
-   [[215]],
-   [[216]],
-   [[217]],
-   [[218]],
-   [[219]],
-   [[220]],
-   [[221]],
-   [[222]],
-   [[223]],
-   [[224]],
-   [[225]],
-   [[226]],
-   [[227]],
-   [[228]],
-   [[229]],
-   [[230]],
-   [[231]],
-   [[232]],
-   [[233]],
-   [[234]],
-   [[235]],
-   [[236]]],
-  "id": "Canada"},
- {"type": "Polygon",
-  "properties": {"name": "Switzerland"},
-  "arcs": [[237, -60, 238, 239, 240, 241, 242]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Chile"},
-  "arcs": [[[243]],
-   [[244]],
-   [[245]],
-   [[246]],
-   [[247]],
-   [[248]],
-   [[249]],
-   [[-30, 250]],
-   [[251]],
-   [[252]],
-   [[253]],
-   [[254]],
-   [[255]],
-   [[256]],
-   [[257]],
-   [[258]],
-   [[259]],
-   [[260]],
-   [[261]],
-   [[262]],
-   [[263]],
-   [[264]],
-   [[265]],
-   [[266]],
-   [[267]],
-   [[-36, 268, 269, -118]]],
-  "id": "LATAM"},
- {"type": "MultiPolygon",
-  "properties": {"name": "China"},
-  "arcs": [[[270]],
-   [[271]],
-   [[272,
-     273,
-     274,
-     275,
-     276,
-     277,
-     278,
-     279,
-     280,
-     281,
-     -149,
-     282,
-     283,
-     284,
-     285,
-     286,
-     -1,
-     287,
-     288,
-     289,
-     290,
-     291,
-     292,
-     293,
-     294]]],
-  "id": "APAC"},
- {"type": "Polygon",
-  "properties": {"name": "Cote d'Ivoire"},
-  "arcs": [[-89, 295, 296, 297, 298, 299]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Cameroon"},
-  "arcs": [[300, -157, 301, 302, 303, 304, 305, 306, 307]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Cyprus U.N. Buffer Zone"},
-  "arcs": [[[308, 309]], [[310, 311, 312, 313]]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Dem. Rep. Congo"},
-  "arcs": [[314,
-    315,
-    316,
-    317,
-    318,
-    319,
-    320,
-    321,
-    322,
-    -72,
-    323,
-    324,
-    325,
-    326,
-    -10,
-    327,
-    -11,
-    328,
-    -155]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Congo"},
-  "arcs": [[-329, -13, 329, 330, -302, -156]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Colombia"},
-  "arcs": [[331, -141, 332, 333, 334, 335, 336]],
-  "id": "LATAM"},
- {"type": "Polygon",
-  "properties": {"name": "Comoros"},
-  "arcs": [[337]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Cape Verde"},
-  "arcs": [[[338]], [[339]], [[340]]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Costa Rica"},
-  "arcs": [[341, 342, 343, 344]],
-  "id": "LATAM"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Cuba"},
-  "arcs": [[[345]], [[346]]],
-  "id": "LATAM"},
- {"type": "Polygon",
-  "properties": {"name": "N. Cyprus"},
-  "arcs": [[347, 348, -314, 349]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Cyprus"},
-  "arcs": [[[350, 351, -348]], [[352, 353, -310, 354, -312]]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Czech Rep."},
-  "arcs": [[355, 356, -63, 357]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Germany"},
-  "arcs": [[[358]],
-   [[359, 360, -358, -62, 361, -243, 362, 363, -74, 364, 365, 366]]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Djibouti"},
-  "arcs": [[367, 368, 369, 370]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Dominica"},
-  "arcs": [[371]],
-  "id": "LATAM"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Denmark"},
-  "arcs": [[[372]], [[373]], [[374]], [[375]], [[-367, 376]]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Dominican Rep."},
-  "arcs": [[377, 378, 379, 380]],
-  "id": "LATAM"},
- {"type": "Polygon",
-  "properties": {"name": "Algeria"},
-  "arcs": [[381, 382, 383, 384, 385, 386, 387, 388]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Ecuador"},
-  "arcs": [[[389]], [[390]], [[391]], [[392]], [[393]], [[394, 395, -334]]],
-  "id": "LATAM"},
- {"type": "Polygon",
-  "properties": {"name": "Egypt"},
-  "arcs": [[396, 397, 398, 399, 400, 401]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Eritrea"},
-  "arcs": [[-370, 402, 403, 404]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Dhekelia"},
-  "arcs": [[-352, 405, -353, -311, -349]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Spain"},
-  "arcs": [[[406]],
-   [[407]],
-   [[408]],
-   [[409]],
-   [[410]],
-   [[411, -23, 412, 413, 414, 415]]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Estonia"},
-  "arcs": [[[416]], [[417, 418, 419, 420, 421, 422, 423]]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Ethiopia"},
-  "arcs": [[-369, 424, 425, 426, 427, 428, -403]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Finland"},
-  "arcs": [[429, 430, 431, 432]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Fiji"},
-  "arcs": [[[433]], [[434]]],
-  "id": "APAC"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Falkland Is."},
-  "arcs": [[[435]], [[436]]],
-  "id": "LATAM"},
- {"type": "MultiPolygon",
-  "properties": {"name": "France"},
-  "arcs": [[[437]],
-   [[-132, 438, 439]],
-   [[440]],
-   [[441]],
-   [[442]],
-   [[443, -363, -242, 444, -240, 445, 446, -413, -24, -412, 447, -76]]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Gabon"},
-  "arcs": [[-331, 448, 449, -303]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "United Kingdom"},
-  "arcs": [[[450, 451]], [[452]], [[453]], [[454]], [[455]], [[456]]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Georgia"},
-  "arcs": [[-69, -42, 457, 458, 459]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Ghana"},
-  "arcs": [[460, 461, -296, -88]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Guinea"},
-  "arcs": [[462, -299, 463, 464, 465, 466, 467]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Gambia"},
-  "arcs": [[468, 469]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Guinea-Bissau"},
-  "arcs": [[470, 471, -467]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Eq. Guinea"},
-  "arcs": [[[-450, 472, -304]], [[473]]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Greece"},
-  "arcs": [[[474]],
-   [[475]],
-   [[476]],
-   [[477]],
-   [[478]],
-   [[479]],
-   [[480]],
-   [[481, -97, 482, 483, -17, 484]]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Greenland"},
-  "arcs": [[[485]],
-   [[486]],
-   [[487]],
-   [[488]],
-   [[489]],
-   [[490]],
-   [[491]],
-   [[492]],
-   [[493]],
-   [[494]],
-   [[495]],
-   [[496]]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Guatemala"},
-  "arcs": [[-115, 497, 498, 499, 500, 501]],
-  "id": "LATAM"},
- {"type": "Polygon",
-  "properties": {"name": "Guyana"},
-  "arcs": [[502, -143, 503, 504]],
-  "id": "LATAM"},
- {"type": "Polygon",
-  "properties": {"name": "Hong Kong"},
-  "arcs": [[505, -277]],
-  "id": "APAC"},
- {"type": "Polygon",
-  "properties": {"name": "Honduras"},
-  "arcs": [[506, 507, 508, -499, 509]],
-  "id": "LATAM"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Croatia"},
-  "arcs": [[[-106, 510, 511, 512]], [[513, 514, 515, -108, 516, 517]]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Haiti"},
-  "arcs": [[[518]], [[-380, 519, -378, 520]]],
-  "id": "LATAM"},
- {"type": "Polygon",
-  "properties": {"name": "Hungary"},
-  "arcs": [[521, 522, 523, -514, 524, -57, 525]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Indonesia"},
-  "arcs": [[[526]],
-   [[527]],
-   [[528, 529, 530, 531]],
-   [[532]],
-   [[533]],
-   [[534]],
-   [[535]],
-   [[536]],
-   [[537]],
-   [[538]],
-   [[539]],
-   [[540]],
-   [[541]],
-   [[542]],
-   [[543]],
-   [[544]],
-   [[545]],
-   [[546]],
-   [[547]],
-   [[548]],
-   [[549]],
-   [[550]],
-   [[551]],
-   [[552]],
-   [[553]],
-   [[554]],
-   [[555]],
-   [[556]],
-   [[557]],
-   [[558]],
-   [[559]],
-   [[560]],
-   [[561]],
-   [[562]],
-   [[563]],
-   [[564]],
-   [[565]],
-   [[566]],
-   [[567]],
-   [[568, 569]],
-   [[570]],
-   [[571]],
-   [[572]],
-   [[573]],
-   [[574]],
-   [[575]],
-   [[576]],
-   [[577]],
-   [[578]],
-   [[579]],
-   [[580]],
-   [[581]],
-   [[582]],
-   [[583]],
-   [[584]],
-   [[585, 586]],
-   [[587]],
-   [[588]]],
-  "id": "APAC"},
- {"type": "Polygon",
-  "properties": {"name": "Isle of Man"},
-  "arcs": [[589]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "India"},
-  "arcs": [[[590]],
-   [[591]],
-   [[592]],
-   [[593, -283, -148, -282, 594, -94, 595, 596, 597, -285]]],
-  "id": "APAC"},
- {"type": "Polygon",
-  "properties": {"name": "Ireland"},
-  "arcs": [[-451, 598]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Iran"},
-  "arcs": [[[599]], [[-39, -68, 600, 601, -3, 602, 603, 604, 605, -64]]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Iraq"},
-  "arcs": [[-605, 606, 607, 608, 609, 610, 611]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Iceland"},
-  "arcs": [[612]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Israel"},
-  "arcs": [[613, 614, 615, 616, 617, -398, 618, 619, 620, 621]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Italy"},
-  "arcs": [[[622]], [[623]], [[624, 625, -446, -239, -59]]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Jamaica"},
-  "arcs": [[626]],
-  "id": "LATAM"},
- {"type": "Polygon",
-  "properties": {"name": "Jordan"},
-  "arcs": [[627, 628, -617, 629, 630, -614, 631, -610]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Japan"},
-  "arcs": [[[632]],
-   [[633]],
-   [[634]],
-   [[635]],
-   [[636]],
-   [[637]],
-   [[638]],
-   [[639]]],
-  "id": "APAC"},
- {"type": "Polygon",
-  "properties": {"name": "Baikonur"},
-  "arcs": [[640]],
-  "id": "APAC"},
- {"type": "Polygon",
-  "properties": {"name": "Siachen Glacier"},
-  "arcs": [[-598, 641, -286]],
-  "id": "APAC"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Kazakhstan"},
-  "arcs": [[[642, 643]], [[-290, 644, 645, 646, 647, 648, 649, 650], [-641]]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Kenya"},
-  "arcs": [[-427, 651, 652, 653, 654, 655, 656]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Kyrgyzstan"},
-  "arcs": [[-289, 657, 658, -645]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Cambodia"},
-  "arcs": [[659, 660, 661, 662]],
-  "id": "APAC"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Korea"},
-  "arcs": [[[663]], [[664, 665]]],
-  "id": "APAC"},
- {"type": "Polygon",
-  "properties": {"name": "Kosovo"},
-  "arcs": [[666, -14, 667, 668]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Kuwait"},
-  "arcs": [[[669]], [[670, -608, 671]]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Lao PDR"},
-  "arcs": [[672, -662, 673, 674, -280]],
-  "id": "APAC"},
- {"type": "Polygon",
-  "properties": {"name": "Lebanon"},
-  "arcs": [[-621, 675, 676]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Liberia"},
-  "arcs": [[-298, 677, 678, -464]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Libya"},
-  "arcs": [[-401, 679, 680, 681, -383, 682, 683]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Sri Lanka"},
-  "arcs": [[684]],
-  "id": "APAC"},
- {"type": "Polygon",
-  "properties": {"name": "Lesotho"},
-  "arcs": [[685]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Lithuania"},
-  "arcs": [[-112, 686, 687, 688, 689]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Luxembourg"},
-  "arcs": [[-364, -444, -75]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Latvia"},
-  "arcs": [[690, -113, -690, 691, -423]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Morocco"},
-  "arcs": [[-388, 692, 693]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Moldova"},
-  "arcs": [[694, 695]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Madagascar"},
-  "arcs": [[696]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Mexico"},
-  "arcs": [[[697]],
-   [[698]],
-   [[699, 700, 701, 702, 703, -116, -502, 704, 705], [706]]],
-  "id": "LATAM"},
- {"type": "Polygon",
-  "properties": {"name": "Macedonia"},
-  "arcs": [[-98, -482, 707, -15, -667, 708]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Mali"},
-  "arcs": [[709, -90, -300, -463, 710, 711, -385]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Myanmar"},
-  "arcs": [[[712]], [[713]], [[-675, 714, 715, -92, -595, -281]]],
-  "id": "APAC"},
- {"type": "Polygon",
-  "properties": {"name": "Montenegro"},
-  "arcs": [[716, -668, -21, 717, -19, 718, -512, 719]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Mongolia"},
-  "arcs": [[-294, 720, -292, 721]],
-  "id": "APAC"},
- {"type": "Polygon",
-  "properties": {"name": "Mozambique"},
-  "arcs": [[722, 723, 724, 725, 726, 727, 728, 729, 730]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Mauritania"},
-  "arcs": [[731, 732, 733, -386, -712]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Mauritius"},
-  "arcs": [[734]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Malawi"},
-  "arcs": [[735, -728, 736, 737]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Malaysia"},
-  "arcs": [[[738, 739]], [[-587, 740, -147, 741, -144, 742]]],
-  "id": "APAC"},
- {"type": "Polygon",
-  "properties": {"name": "Namibia"},
-  "arcs": [[743, -152, 744, 745, -8]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "New Caledonia"},
-  "arcs": [[[746]], [[747]], [[748]]],
-  "id": "APAC"},
- {"type": "Polygon",
-  "properties": {"name": "Niger"},
-  "arcs": [[749, 750, -85, -86, -710, -384, -682]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Nigeria"},
-  "arcs": [[751, -306, 752, -81, -751]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Nicaragua"},
-  "arcs": [[753, -345, 754, -507]],
-  "id": "LATAM"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Netherlands"},
-  "arcs": [[[-78, 755]], [[756]], [[-365, -80, 757], [758]]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Norway"},
-  "arcs": [[[759]],
-   [[760]],
-   [[761]],
-   [[762]],
-   [[763]],
-   [[764]],
-   [[765]],
-   [[766]],
-   [[767, -433, 768, 769]],
-   [[770]],
-   [[771]],
-   [[772]],
-   [[773]],
-   [[774]]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Nepal"},
-  "arcs": [[-594, -284]],
-  "id": "APAC"},
- {"type": "MultiPolygon",
-  "properties": {"name": "New Zealand"},
-  "arcs": [[[775]], [[776]], [[777]]],
-  "id": "APAC"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Oman"},
-  "arcs": [[[778, 779, -26, 780]], [[-29, 781]]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Pakistan"},
-  "arcs": [[-642, -597, 782, -603, -2, -287]],
-  "id": "APAC"},
- {"type": "Polygon",
-  "properties": {"name": "Panama"},
-  "arcs": [[-336, 783, -343, 784]],
-  "id": "LATAM"},
- {"type": "Polygon",
-  "properties": {"name": "Peru"},
-  "arcs": [[-140, -121, 785, -119, -270, 786, -395, -333]],
-  "id": "LATAM"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Philippines"},
-  "arcs": [[[787]],
-   [[788]],
-   [[789]],
-   [[790]],
-   [[791]],
-   [[792]],
-   [[793]],
-   [[794]],
-   [[795]],
-   [[796]],
-   [[797]],
-   [[798]],
-   [[799]],
-   [[800]],
-   [[801]],
-   [[802]],
-   [[803]],
-   [[804]],
-   [[805]],
-   [[806]]],
-  "id": "APAC"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Papua New Guinea"},
-  "arcs": [[[807]],
-   [[808]],
-   [[809]],
-   [[810]],
-   [[811]],
-   [[812]],
-   [[813]],
-   [[814]],
-   [[-569, 815]],
-   [[816]],
-   [[817]],
-   [[818]]],
-  "id": "APAC"},
- {"type": "Polygon",
-  "properties": {"name": "Poland"},
-  "arcs": [[819, -687, -111, 820, 821, -356, -361, 822]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Puerto Rico"},
-  "arcs": [[823]],
-  "id": "LATAM"},
- {"type": "Polygon",
-  "properties": {"name": "Dem. Rep. Korea"},
-  "arcs": [[824, 825, -665, 826, -275]],
-  "id": "APAC"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Portugal"},
-  "arcs": [[[827]], [[828]], [[829, -415]]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Paraguay"},
-  "arcs": [[-139, 830, -137, -32, -117]],
-  "id": "LATAM"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Palestine"},
-  "arcs": [[[-397, 831, -619]], [[-631, 832, -615]]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Fr. Polynesia"},
-  "arcs": [[833]],
-  "id": "APAC"},
- {"type": "Polygon",
-  "properties": {"name": "Qatar"},
-  "arcs": [[834, 835]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Romania"},
-  "arcs": [[836, 837, -100, 838, -523, 839, -695]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Russia"},
-  "arcs": [[[840]],
-   [[841]],
-   [[842]],
-   [[843]],
-   [[844]],
-   [[845]],
-   [[846]],
-   [[-820, 847, -688]],
-   [[848]],
-   [[849]],
-   [[850]],
-   [[851]],
-   [[852]],
-   [[853]],
-   [[854]],
-   [[855, 856]],
-   [[857, -857]],
-   [[858]],
-   [[859]],
-   [[860]],
-   [[861]],
-   [[862]],
-   [[863]],
-   [[864]],
-   [[865]],
-   [[866]],
-   [[867]],
-   [[868]],
-   [[869,
-     -825,
-     -274,
-     870,
-     -295,
-     -722,
-     -291,
-     -651,
-     871,
-     -66,
-     -460,
-     872,
-     873,
-     -109,
-     -691,
-     -422,
-     874,
-     -420,
-     875,
-     -418,
-     876,
-     -430,
-     -768,
-     877]],
-   [[878]],
-   [[879]],
-   [[880]],
-   [[881]],
-   [[882]],
-   [[883]],
-   [[884]],
-   [[885]],
-   [[886]],
-   [[887]]],
-  "id": "APAC"},
- {"type": "Polygon",
-  "properties": {"name": "Rwanda"},
-  "arcs": [[888, -73, -323, 889, -321, 890]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "W. Sahara"},
-  "arcs": [[-387, -734, 891, -693]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Saudi Arabia"},
-  "arcs": [[-671, 892, -835, 893, -27, -780, 894, 895, -628, -609]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Sudan"},
-  "arcs": [[896, -404, -429, 897, -153, 898, -680, -400]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "S. Sudan"},
-  "arcs": [[-428, -657, 899, -315, -154, -898]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Senegal"},
-  "arcs": [[-711, -468, -472, 900, -470, 901, -732]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "S. Geo. and S. Sandw. Is."},
-  "arcs": [[902]],
-  "id": "LATAM"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Solomon Is."},
-  "arcs": [[[903]],
-   [[904]],
-   [[905]],
-   [[906]],
-   [[907]],
-   [[908]],
-   [[909]],
-   [[910]],
-   [[911]]],
-  "id": "APAC"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Sierra Leone"},
-  "arcs": [[[912]], [[-679, 913, -465]]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "El Salvador"},
-  "arcs": [[-509, 914, -500]],
-  "id": "LATAM"},
- {"type": "Polygon",
-  "properties": {"name": "Somaliland"},
-  "arcs": [[915, -425, -368, 916]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Somalia"},
-  "arcs": [[-652, -426, -916, 917]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Serbia"},
-  "arcs": [[-839, -99, -709, -669, -717, 918, -515, -524]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "SÃ£o TomÃ© and Principe"},
-  "arcs": [[919]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Suriname"},
-  "arcs": [[-439, -131, -503, 920]],
-  "id": "LATAM"},
- {"type": "Polygon",
-  "properties": {"name": "Slovakia"},
-  "arcs": [[921, -526, -56, -357, -822]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Slovenia"},
-  "arcs": [[-518, 922, -625, -58, -525]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Sweden"},
-  "arcs": [[[923]], [[924, -769, -432]]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Swaziland"},
-  "arcs": [[-724, 925]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Syria"},
-  "arcs": [[-611, -632, -622, -677, 926, 927]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Chad"},
-  "arcs": [[-899, -158, -301, 928, -307, -752, -750, -681]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Togo"},
-  "arcs": [[-83, 929, -461, -87]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Thailand"},
-  "arcs": [[[930]], [[-674, -661, 931, -740, 932, -715]]],
-  "id": "APAC"},
- {"type": "Polygon",
-  "properties": {"name": "Tajikistan"},
-  "arcs": [[-658, -288, -6, 933]],
-  "id": "APAC"},
- {"type": "Polygon",
-  "properties": {"name": "Turkmenistan"},
-  "arcs": [[-4, -602, 934, -649, 935, 936, 937]],
-  "id": "APAC"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Timor-Leste"},
-  "arcs": [[[938, -530]], [[-532, 939]]],
-  "id": "APAC"},
- {"type": "Polygon",
-  "properties": {"name": "Trinidad and Tobago"},
-  "arcs": [[940]],
-  "id": "LATAM"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Tunisia"},
-  "arcs": [[[941]], [[-683, -382, 942]]],
-  "id": "EMEA"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Turkey"},
-  "arcs": [[[943, -483, -96]], [[-458, -41, -65, -606, -612, -928, 944]]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Taiwan"},
-  "arcs": [[945]],
-  "id": "APAC"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Tanzania"},
-  "arcs": [[[946]],
-   [[947]],
-   [[948, -654, 949, -730, 950, -738, 951, 952, -70, -889, 953]]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Uganda"},
-  "arcs": [[954, -954, -891, -320, 955, -318, 956, -316, -900, -656]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Ukraine"},
-  "arcs": [[957, -837, -696, -840, -522, -922, -821, -110, -874], [958]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Uruguay"},
-  "arcs": [[959, -134, 960, -34, -136]],
-  "id": "LATAM"},
- {"type": "MultiPolygon",
-  "properties": {"name": "United States"},
-  "arcs": [[[961]],
-   [[962]],
-   [[963]],
-   [[964]],
-   [[965]],
-   [[966]],
-   [[967]],
-   [[968]],
-   [[969]],
-   [[970,
-     -201,
-     971,
-     -199,
-     972,
-     -197,
-     973,
-     -195,
-     -165,
-     974,
-     -163,
-     975,
-     -703,
-     976,
-     -701,
-     977,
-     -706,
-     978,
-     -203]],
-   [[979]],
-   [[980]],
-   [[982]],
-   [[983]],
-   [[984]],
-   [[985]],
-   [[986]],
-   [[987]],
-   [[988]],
-   [[989]],
-   [[990]],
-   [[991]],
-   [[992]],
-   [[993]],
-   [[994]],
-   [[995]],
-   [[996]],
-   [[997]],
-   [[998]],
-   [[-205, 999]]],
-  "id": "USA"},
- {"type": "Polygon",
-  "properties": {"name": "Uzbekistan"},
-  "arcs": [[-643, 1000, -646, -659, -934, -5, -938, 1001, -936, -648, 1002]],
-  "id": "APAC"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Venezuela"},
-  "arcs": [[[1003]], [[-504, -142, -332, 1004]]],
-  "id": "LATAM"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Vietnam"},
-  "arcs": [[[1005]], [[1006, -663, -673, -279]]],
-  "id": "APAC"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Vanuatu"},
-  "arcs": [[[1007]], [[1008]], [[1009]], [[1010]], [[1011]]],
-  "id": "APAC"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Samoa"},
-  "arcs": [[[1012]], [[1013]]],
-  "id": "APAC"},
- {"type": "MultiPolygon",
-  "properties": {"name": "Yemen"},
-  "arcs": [[[1014]], [[1015, -895, -779]]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "South Africa"},
-  "arcs": [[-725, -926, -723, 1016, -745, -151, 1017], [-686]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Zambia"},
-  "arcs": [[-952,
-    -737,
-    -727,
-    1018,
-    1019,
-    1020,
-    -744,
-    -7,
-    -327,
-    1021,
-    -325,
-    1022]],
-  "id": "EMEA"},
- {"type": "Polygon",
-  "properties": {"name": "Zimbabwe"},
-  "arcs": [[-726, -1018, -150, -1021, 1023, -1019]],
-  "id": "EMEA"}]
+      "geometries": [{
+          "type": "MultiPolygon",
+          "properties": {
+            "id": "LATAM"
+          },
+          "arcs": [
+            [
+              [
+                29,
+                30
+              ]
+            ],
+            [
+              [
+                31,
+                32,
+                33,
+                34,
+                35,
+                36
+              ]
+            ],
+            [
+              [
+                100
+              ]
+            ],
+            [
+              [
+                101
+              ]
+            ],
+            [
+              [
+                102
+              ]
+            ],
+            [
+              [
+                103
+              ]
+            ],
+            [
+              113,
+              114,
+              115
+            ],
+            [
+              116,
+              -37,
+              117,
+              118,
+              119,
+              120,
+              121
+            ],
+            [
+              [
+                122
+              ]
+            ],
+            [
+              [
+                123
+              ]
+            ],
+            [
+              [
+                124
+              ]
+            ],
+            [
+              [
+                125
+              ]
+            ],
+            [
+              [
+                126
+              ]
+            ],
+            [
+              [
+                127
+              ]
+            ],
+            [
+              [
+                128
+              ]
+            ],
+            [
+              [
+                129
+              ]
+            ],
+            [
+              [
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                -33,
+                136,
+                137,
+                138,
+                -122,
+                139,
+                140,
+                141,
+                142
+              ]
+            ],
+            [
+              [
+                243
+              ]
+            ],
+            [
+              [
+                244
+              ]
+            ],
+            [
+              [
+                245
+              ]
+            ],
+            [
+              [
+                246
+              ]
+            ],
+            [
+              [
+                247
+              ]
+            ],
+            [
+              [
+                248
+              ]
+            ],
+            [
+              [
+                249
+              ]
+            ],
+            [
+              [
+                -30,
+                250
+              ]
+            ],
+            [
+              [
+                251
+              ]
+            ],
+            [
+              [
+                252
+              ]
+            ],
+            [
+              [
+                253
+              ]
+            ],
+            [
+              [
+                254
+              ]
+            ],
+            [
+              [
+                255
+              ]
+            ],
+            [
+              [
+                256
+              ]
+            ],
+            [
+              [
+                257
+              ]
+            ],
+            [
+              [
+                258
+              ]
+            ],
+            [
+              [
+                259
+              ]
+            ],
+            [
+              [
+                260
+              ]
+            ],
+            [
+              [
+                261
+              ]
+            ],
+            [
+              [
+                262
+              ]
+            ],
+            [
+              [
+                263
+              ]
+            ],
+            [
+              [
+                264
+              ]
+            ],
+            [
+              [
+                265
+              ]
+            ],
+            [
+              [
+                266
+              ]
+            ],
+            [
+              [
+                267
+              ]
+            ],
+            [
+              [
+                -36,
+                268,
+                269,
+                -118
+              ]
+            ],
+            [
+              331,
+              -141,
+              332,
+              333,
+              334,
+              335,
+              336
+            ],
+            [
+              341,
+              342,
+              343,
+              344
+            ],
+            [
+              [
+                345
+              ]
+            ],
+            [
+              [
+                346
+              ]
+            ],
+            [
+              371
+            ],
+            [
+              377,
+              378,
+              379,
+              380
+            ],
+            [
+              [
+                389
+              ]
+            ],
+            [
+              [
+                390
+              ]
+            ],
+            [
+              [
+                391
+              ]
+            ],
+            [
+              [
+                392
+              ]
+            ],
+            [
+              [
+                393
+              ]
+            ],
+            [
+              [
+                394,
+                395,
+                -334
+              ]
+            ],
+            [
+              [
+                435
+              ]
+            ],
+            [
+              [
+                436
+              ]
+            ],
+            [
+              -115,
+              497,
+              498,
+              499,
+              500,
+              501
+            ],
+            [
+              502,
+              -143,
+              503,
+              504
+            ],
+            [
+              506,
+              507,
+              508,
+              -499,
+              509
+            ],
+            [
+              [
+                518
+              ]
+            ],
+            [
+              [
+                -380,
+                519,
+                -378,
+                520
+              ]
+            ],
+            [
+              626
+            ],
+            [
+              [
+                697
+              ]
+            ],
+            [
+              [
+                698
+              ]
+            ],
+            [
+              [
+                699,
+                700,
+                701,
+                702,
+                703,
+                -116,
+                -502,
+                704,
+                705
+              ],
+              [
+                706
+              ]
+            ],
+            [
+              753,
+              -345,
+              754,
+              -507
+            ],
+            [
+              -336,
+              783,
+              -343,
+              784
+            ],
+            [
+              -140,
+              -121,
+              785,
+              -119,
+              -270,
+              786,
+              -395,
+              -333
+            ],
+            [
+              823
+            ],
+            [
+              -139,
+              830,
+              -137,
+              -32,
+              -117
+            ],
+            [
+              902
+            ],
+            [
+              -509,
+              914,
+              -500
+            ],
+            [
+              -439,
+              -131,
+              -503,
+              920
+            ],
+            [
+              940
+            ],
+            [
+              959,
+              -134,
+              960,
+              -34,
+              -136
+            ],
+            [
+              [
+                1003
+              ]
+            ],
+            [
+              [
+                -504,
+                -142,
+                -332,
+                1004
+              ]
+            ]
+          ]
+        },
+        {
+          "type": "MultiPolygon",
+          "properties": {
+            "id": "EMEA"
+          },
+          "arcs": [
+            [
+              [
+                6,
+                7,
+                8,
+                9
+              ]
+            ],
+            [
+              [
+                10,
+                11,
+                12
+              ]
+            ],
+            [
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20
+            ],
+            [
+              21
+            ],
+            [
+              22,
+              23
+            ],
+            [
+              24,
+              25,
+              26,
+              27,
+              28
+            ],
+            [
+              37,
+              38,
+              39,
+              40,
+              41
+            ],
+            [
+              55,
+              56,
+              57,
+              58,
+              59,
+              60,
+              61,
+              62
+            ],
+            [
+              [
+                63,
+                64,
+                -40
+              ]
+            ],
+            [
+              [
+                65,
+                66,
+                67,
+                -38,
+                68
+              ]
+            ],
+            [
+              69,
+              70,
+              71,
+              72
+            ],
+            [
+              73,
+              74,
+              75,
+              76,
+              77,
+              78,
+              79
+            ],
+            [
+              80,
+              81,
+              82,
+              83,
+              84
+            ],
+            [
+              85,
+              -84,
+              86,
+              87,
+              88,
+              89
+            ],
+            [
+              94,
+              95,
+              96,
+              97,
+              98,
+              99
+            ],
+            [
+              104,
+              105,
+              106,
+              107
+            ],
+            [
+              108,
+              109,
+              110,
+              111,
+              112
+            ],
+            [
+              149,
+              150,
+              151
+            ],
+            [
+              152,
+              153,
+              154,
+              155,
+              156,
+              157
+            ],
+            [
+              237,
+              -60,
+              238,
+              239,
+              240,
+              241,
+              242
+            ],
+            [
+              -89,
+              295,
+              296,
+              297,
+              298,
+              299
+            ],
+            [
+              300,
+              -157,
+              301,
+              302,
+              303,
+              304,
+              305,
+              306,
+              307
+            ],
+            [
+              [
+                308,
+                309
+              ]
+            ],
+            [
+              [
+                310,
+                311,
+                312,
+                313
+              ]
+            ],
+            [
+              314,
+              315,
+              316,
+              317,
+              318,
+              319,
+              320,
+              321,
+              322,
+              -72,
+              323,
+              324,
+              325,
+              326,
+              -10,
+              327,
+              -11,
+              328,
+              -155
+            ],
+            [
+              -329,
+              -13,
+              329,
+              330,
+              -302,
+              -156
+            ],
+            [
+              337
+            ],
+            [
+              [
+                338
+              ]
+            ],
+            [
+              [
+                339
+              ]
+            ],
+            [
+              [
+                340
+              ]
+            ],
+            [
+              347,
+              348,
+              -314,
+              349
+            ],
+            [
+              [
+                350,
+                351,
+                -348
+              ]
+            ],
+            [
+              [
+                352,
+                353,
+                -310,
+                354,
+                -312
+              ]
+            ],
+            [
+              355,
+              356,
+              -63,
+              357
+            ],
+            [
+              [
+                358
+              ]
+            ],
+            [
+              [
+                359,
+                360,
+                -358,
+                -62,
+                361,
+                -243,
+                362,
+                363,
+                -74,
+                364,
+                365,
+                366
+              ]
+            ],
+            [
+              367,
+              368,
+              369,
+              370
+            ],
+            [
+              [
+                372
+              ]
+            ],
+            [
+              [
+                373
+              ]
+            ],
+            [
+              [
+                374
+              ]
+            ],
+            [
+              [
+                375
+              ]
+            ],
+            [
+              [
+                -367,
+                376
+              ]
+            ],
+            [
+              381,
+              382,
+              383,
+              384,
+              385,
+              386,
+              387,
+              388
+            ],
+            [
+              396,
+              397,
+              398,
+              399,
+              400,
+              401
+            ],
+            [
+              -370,
+              402,
+              403,
+              404
+            ],
+            [
+              -352,
+              405,
+              -353,
+              -311,
+              -349
+            ],
+            [
+              [
+                406
+              ]
+            ],
+            [
+              [
+                407
+              ]
+            ],
+            [
+              [
+                408
+              ]
+            ],
+            [
+              [
+                409
+              ]
+            ],
+            [
+              [
+                410
+              ]
+            ],
+            [
+              [
+                411,
+                -23,
+                412,
+                413,
+                414,
+                415
+              ]
+            ],
+            [
+              [
+                416
+              ]
+            ],
+            [
+              [
+                417,
+                418,
+                419,
+                420,
+                421,
+                422,
+                423
+              ]
+            ],
+            [
+              -369,
+              424,
+              425,
+              426,
+              427,
+              428,
+              -403
+            ],
+            [
+              429,
+              430,
+              431,
+              432
+            ],
+            [
+              [
+                437
+              ]
+            ],
+            [
+              [
+                -132,
+                438,
+                439
+              ]
+            ],
+            [
+              [
+                440
+              ]
+            ],
+            [
+              [
+                441
+              ]
+            ],
+            [
+              [
+                442
+              ]
+            ],
+            [
+              [
+                443,
+                -363,
+                -242,
+                444,
+                -240,
+                445,
+                446,
+                -413,
+                -24,
+                -412,
+                447,
+                -76
+              ]
+            ],
+            [
+              -331,
+              448,
+              449,
+              -303
+            ],
+            [
+              [
+                450,
+                451
+              ]
+            ],
+            [
+              [
+                452
+              ]
+            ],
+            [
+              [
+                453
+              ]
+            ],
+            [
+              [
+                454
+              ]
+            ],
+            [
+              [
+                455
+              ]
+            ],
+            [
+              [
+                456
+              ]
+            ],
+            [
+              -69,
+              -42,
+              457,
+              458,
+              459
+            ],
+            [
+              460,
+              461,
+              -296,
+              -88
+            ],
+            [
+              462,
+              -299,
+              463,
+              464,
+              465,
+              466,
+              467
+            ],
+            [
+              468,
+              469
+            ],
+            [
+              470,
+              471,
+              -467
+            ],
+            [
+              [
+                -450,
+                472,
+                -304
+              ]
+            ],
+            [
+              [
+                473
+              ]
+            ],
+            [
+              [
+                474
+              ]
+            ],
+            [
+              [
+                475
+              ]
+            ],
+            [
+              [
+                476
+              ]
+            ],
+            [
+              [
+                477
+              ]
+            ],
+            [
+              [
+                478
+              ]
+            ],
+            [
+              [
+                479
+              ]
+            ],
+            [
+              [
+                480
+              ]
+            ],
+            [
+              [
+                481,
+                -97,
+                482,
+                483,
+                -17,
+                484
+              ]
+            ],
+            [
+              [
+                485
+              ]
+            ],
+            [
+              [
+                486
+              ]
+            ],
+            [
+              [
+                487
+              ]
+            ],
+            [
+              [
+                488
+              ]
+            ],
+            [
+              [
+                489
+              ]
+            ],
+            [
+              [
+                490
+              ]
+            ],
+            [
+              [
+                491
+              ]
+            ],
+            [
+              [
+                492
+              ]
+            ],
+            [
+              [
+                493
+              ]
+            ],
+            [
+              [
+                494
+              ]
+            ],
+            [
+              [
+                495
+              ]
+            ],
+            [
+              [
+                496
+              ]
+            ],
+            [
+              [
+                -106,
+                510,
+                511,
+                512
+              ]
+            ],
+            [
+              [
+                513,
+                514,
+                515,
+                -108,
+                516,
+                517
+              ]
+            ],
+            [
+              521,
+              522,
+              523,
+              -514,
+              524,
+              -57,
+              525
+            ],
+            [
+              589
+            ],
+            [
+              -451,
+              598
+            ],
+            [
+              [
+                599
+              ]
+            ],
+            [
+              [
+                -39,
+                -68,
+                600,
+                601,
+                -3,
+                602,
+                603,
+                604,
+                605,
+                -64
+              ]
+            ],
+            [
+              -605,
+              606,
+              607,
+              608,
+              609,
+              610,
+              611
+            ],
+            [
+              612
+            ],
+            [
+              613,
+              614,
+              615,
+              616,
+              617,
+              -398,
+              618,
+              619,
+              620,
+              621
+            ],
+            [
+              [
+                622
+              ]
+            ],
+            [
+              [
+                623
+              ]
+            ],
+            [
+              [
+                624,
+                625,
+                -446,
+                -239,
+                -59
+              ]
+            ],
+            [
+              627,
+              628,
+              -617,
+              629,
+              630,
+              -614,
+              631,
+              -610
+            ],
+            [
+              [
+                642,
+                643
+              ]
+            ],
+            [
+              [
+                -290,
+                644,
+                645,
+                646,
+                647,
+                648,
+                649,
+                650
+              ],
+              [
+                -641
+              ]
+            ],
+            [
+              -427,
+              651,
+              652,
+              653,
+              654,
+              655,
+              656
+            ],
+            [
+              -289,
+              657,
+              658,
+              -645
+            ],
+            [
+              666,
+              -14,
+              667,
+              668
+            ],
+            [
+              [
+                669
+              ]
+            ],
+            [
+              [
+                670,
+                -608,
+                671
+              ]
+            ],
+            [
+              -621,
+              675,
+              676
+            ],
+            [
+              -298,
+              677,
+              678,
+              -464
+            ],
+            [
+              -401,
+              679,
+              680,
+              681,
+              -383,
+              682,
+              683
+            ],
+            [
+              685
+            ],
+            [
+              -112,
+              686,
+              687,
+              688,
+              689
+            ],
+            [
+              -364,
+              -444,
+              -75
+            ],
+            [
+              690,
+              -113,
+              -690,
+              691,
+              -423
+            ],
+            [
+              -388,
+              692,
+              693
+            ],
+            [
+              694,
+              695
+            ],
+            [
+              696
+            ],
+            [
+              -98,
+              -482,
+              707,
+              -15,
+              -667,
+              708
+            ],
+            [
+              709,
+              -90,
+              -300,
+              -463,
+              710,
+              711,
+              -385
+            ],
+            [
+              716,
+              -668,
+              -21,
+              717,
+              -19,
+              718,
+              -512,
+              719
+            ],
+            [
+              722,
+              723,
+              724,
+              725,
+              726,
+              727,
+              728,
+              729,
+              730
+            ],
+            [
+              731,
+              732,
+              733,
+              -386,
+              -712
+            ],
+            [
+              734
+            ],
+            [
+              735,
+              -728,
+              736,
+              737
+            ],
+            [
+              743,
+              -152,
+              744,
+              745,
+              -8
+            ],
+            [
+              749,
+              750,
+              -85,
+              -86,
+              -710,
+              -384,
+              -682
+            ],
+            [
+              751,
+              -306,
+              752,
+              -81,
+              -751
+            ],
+            [
+              [
+                -78,
+                755
+              ]
+            ],
+            [
+              [
+                756
+              ]
+            ],
+            [
+              [
+                -365,
+                -80,
+                757
+              ],
+              [
+                758
+              ]
+            ],
+            [
+              [
+                759
+              ]
+            ],
+            [
+              [
+                760
+              ]
+            ],
+            [
+              [
+                761
+              ]
+            ],
+            [
+              [
+                762
+              ]
+            ],
+            [
+              [
+                763
+              ]
+            ],
+            [
+              [
+                764
+              ]
+            ],
+            [
+              [
+                765
+              ]
+            ],
+            [
+              [
+                766
+              ]
+            ],
+            [
+              [
+                767,
+                -433,
+                768,
+                769
+              ]
+            ],
+            [
+              [
+                770
+              ]
+            ],
+            [
+              [
+                771
+              ]
+            ],
+            [
+              [
+                772
+              ]
+            ],
+            [
+              [
+                773
+              ]
+            ],
+            [
+              [
+                774
+              ]
+            ],
+            [
+              [
+                778,
+                779,
+                -26,
+                780
+              ]
+            ],
+            [
+              [
+                -29,
+                781
+              ]
+            ],
+            [
+              819,
+              -687,
+              -111,
+              820,
+              821,
+              -356,
+              -361,
+              822
+            ],
+            [
+              [
+                827
+              ]
+            ],
+            [
+              [
+                828
+              ]
+            ],
+            [
+              [
+                829,
+                -415
+              ]
+            ],
+            [
+              [
+                -397,
+                831,
+                -619
+              ]
+            ],
+            [
+              [
+                -631,
+                832,
+                -615
+              ]
+            ],
+            [
+              834,
+              835
+            ],
+            [
+              836,
+              837,
+              -100,
+              838,
+              -523,
+              839,
+              -695
+            ],
+            [
+              888,
+              -73,
+              -323,
+              889,
+              -321,
+              890
+            ],
+            [
+              -387,
+              -734,
+              891,
+              -693
+            ],
+            [
+              -671,
+              892,
+              -835,
+              893,
+              -27,
+              -780,
+              894,
+              895,
+              -628,
+              -609
+            ],
+            [
+              896,
+              -404,
+              -429,
+              897,
+              -153,
+              898,
+              -680,
+              -400
+            ],
+            [
+              -428,
+              -657,
+              899,
+              -315,
+              -154,
+              -898
+            ],
+            [
+              -711,
+              -468,
+              -472,
+              900,
+              -470,
+              901,
+              -732
+            ],
+            [
+              [
+                912
+              ]
+            ],
+            [
+              [
+                -679,
+                913,
+                -465
+              ]
+            ],
+            [
+              915,
+              -425,
+              -368,
+              916
+            ],
+            [
+              -652,
+              -426,
+              -916,
+              917
+            ],
+            [
+              -839,
+              -99,
+              -709,
+              -669,
+              -717,
+              918,
+              -515,
+              -524
+            ],
+            [
+              919
+            ],
+            [
+              921,
+              -526,
+              -56,
+              -357,
+              -822
+            ],
+            [
+              -518,
+              922,
+              -625,
+              -58,
+              -525
+            ],
+            [
+              [
+                923
+              ]
+            ],
+            [
+              [
+                924,
+                -769,
+                -432
+              ]
+            ],
+            [
+              -724,
+              925
+            ],
+            [
+              -611,
+              -632,
+              -622,
+              -677,
+              926,
+              927
+            ],
+            [
+              -899,
+              -158,
+              -301,
+              928,
+              -307,
+              -752,
+              -750,
+              -681
+            ],
+            [
+              -83,
+              929,
+              -461,
+              -87
+            ],
+            [
+              [
+                941
+              ]
+            ],
+            [
+              [
+                -683,
+                -382,
+                942
+              ]
+            ],
+            [
+              [
+                943,
+                -483,
+                -96
+              ]
+            ],
+            [
+              [
+                -458,
+                -41,
+                -65,
+                -606,
+                -612,
+                -928,
+                944
+              ]
+            ],
+            [
+              [
+                946
+              ]
+            ],
+            [
+              [
+                947
+              ]
+            ],
+            [
+              [
+                948,
+                -654,
+                949,
+                -730,
+                950,
+                -738,
+                951,
+                952,
+                -70,
+                -889,
+                953
+              ]
+            ],
+            [
+              954,
+              -954,
+              -891,
+              -320,
+              955,
+              -318,
+              956,
+              -316,
+              -900,
+              -656
+            ],
+            [
+              957,
+              -837,
+              -696,
+              -840,
+              -522,
+              -922,
+              -821,
+              -110,
+              -874
+            ],
+            [
+              958
+            ],
+            [
+              [
+                1014
+              ]
+            ],
+            [
+              [
+                1015,
+                -895,
+                -779
+              ]
+            ],
+            [
+              -725,
+              -926,
+              -723,
+              1016,
+              -745,
+              -151,
+              1017
+            ],
+            [
+              -686
+            ],
+            [
+              -952,
+              -737,
+              -727,
+              1018,
+              1019,
+              1020,
+              -744,
+              -7,
+              -327,
+              1021,
+              -325,
+              1022
+            ],
+            [
+              -726,
+              -1018,
+              -150,
+              -1021,
+              1023,
+              -1019
+            ]
+          ]
+        },
+        {
+          "type": "MultiPolygon",
+          "properties": {
+            "id": "APAC"
+          },
+          "arcs": [
+            [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5
+            ],
+            [
+              [
+                43
+              ]
+            ],
+            [
+              [
+                44
+              ]
+            ],
+            [
+              [
+                45
+              ]
+            ],
+            [
+              [
+                46
+              ]
+            ],
+            [
+              [
+                47
+              ]
+            ],
+            [
+              [
+                48
+              ]
+            ],
+            [
+              [
+                49
+              ]
+            ],
+            [
+              [
+                50
+              ]
+            ],
+            [
+              [
+                51
+              ]
+            ],
+            [
+              [
+                52
+              ]
+            ],
+            [
+              [
+                53
+              ]
+            ],
+            [
+              [
+                54
+              ]
+            ],
+            [
+              [
+                90
+              ]
+            ],
+            [
+              [
+                91,
+                92,
+                93
+              ]
+            ],
+            [
+              [
+                143,
+                144
+              ]
+            ],
+            [
+              [
+                145,
+                146
+              ]
+            ],
+            [
+              147,
+              148
+            ],
+            [
+              [
+                270
+              ]
+            ],
+            [
+              [
+                271
+              ]
+            ],
+            [
+              [
+                272,
+                273,
+                274,
+                275,
+                276,
+                277,
+                278,
+                279,
+                280,
+                281,
+                -149,
+                282,
+                283,
+                284,
+                285,
+                286,
+                -1,
+                287,
+                288,
+                289,
+                290,
+                291,
+                292,
+                293,
+                294
+              ]
+            ],
+            [
+              [
+                433
+              ]
+            ],
+            [
+              [
+                434
+              ]
+            ],
+            [
+              505,
+              -277
+            ],
+            [
+              [
+                526
+              ]
+            ],
+            [
+              [
+                527
+              ]
+            ],
+            [
+              [
+                528,
+                529,
+                530,
+                531
+              ]
+            ],
+            [
+              [
+                532
+              ]
+            ],
+            [
+              [
+                533
+              ]
+            ],
+            [
+              [
+                534
+              ]
+            ],
+            [
+              [
+                535
+              ]
+            ],
+            [
+              [
+                536
+              ]
+            ],
+            [
+              [
+                537
+              ]
+            ],
+            [
+              [
+                538
+              ]
+            ],
+            [
+              [
+                539
+              ]
+            ],
+            [
+              [
+                540
+              ]
+            ],
+            [
+              [
+                541
+              ]
+            ],
+            [
+              [
+                542
+              ]
+            ],
+            [
+              [
+                543
+              ]
+            ],
+            [
+              [
+                544
+              ]
+            ],
+            [
+              [
+                545
+              ]
+            ],
+            [
+              [
+                546
+              ]
+            ],
+            [
+              [
+                547
+              ]
+            ],
+            [
+              [
+                548
+              ]
+            ],
+            [
+              [
+                549
+              ]
+            ],
+            [
+              [
+                550
+              ]
+            ],
+            [
+              [
+                551
+              ]
+            ],
+            [
+              [
+                552
+              ]
+            ],
+            [
+              [
+                553
+              ]
+            ],
+            [
+              [
+                554
+              ]
+            ],
+            [
+              [
+                555
+              ]
+            ],
+            [
+              [
+                556
+              ]
+            ],
+            [
+              [
+                557
+              ]
+            ],
+            [
+              [
+                558
+              ]
+            ],
+            [
+              [
+                559
+              ]
+            ],
+            [
+              [
+                560
+              ]
+            ],
+            [
+              [
+                561
+              ]
+            ],
+            [
+              [
+                562
+              ]
+            ],
+            [
+              [
+                563
+              ]
+            ],
+            [
+              [
+                564
+              ]
+            ],
+            [
+              [
+                565
+              ]
+            ],
+            [
+              [
+                566
+              ]
+            ],
+            [
+              [
+                567
+              ]
+            ],
+            [
+              [
+                568,
+                569
+              ]
+            ],
+            [
+              [
+                570
+              ]
+            ],
+            [
+              [
+                571
+              ]
+            ],
+            [
+              [
+                572
+              ]
+            ],
+            [
+              [
+                573
+              ]
+            ],
+            [
+              [
+                574
+              ]
+            ],
+            [
+              [
+                575
+              ]
+            ],
+            [
+              [
+                576
+              ]
+            ],
+            [
+              [
+                577
+              ]
+            ],
+            [
+              [
+                578
+              ]
+            ],
+            [
+              [
+                579
+              ]
+            ],
+            [
+              [
+                580
+              ]
+            ],
+            [
+              [
+                581
+              ]
+            ],
+            [
+              [
+                582
+              ]
+            ],
+            [
+              [
+                583
+              ]
+            ],
+            [
+              [
+                584
+              ]
+            ],
+            [
+              [
+                585,
+                586
+              ]
+            ],
+            [
+              [
+                587
+              ]
+            ],
+            [
+              [
+                588
+              ]
+            ],
+            [
+              [
+                590
+              ]
+            ],
+            [
+              [
+                591
+              ]
+            ],
+            [
+              [
+                592
+              ]
+            ],
+            [
+              [
+                593,
+                -283,
+                -148,
+                -282,
+                594,
+                -94,
+                595,
+                596,
+                597,
+                -285
+              ]
+            ],
+            [
+              [
+                632
+              ]
+            ],
+            [
+              [
+                633
+              ]
+            ],
+            [
+              [
+                634
+              ]
+            ],
+            [
+              [
+                635
+              ]
+            ],
+            [
+              [
+                636
+              ]
+            ],
+            [
+              [
+                637
+              ]
+            ],
+            [
+              [
+                638
+              ]
+            ],
+            [
+              [
+                639
+              ]
+            ],
+            [
+              640
+            ],
+            [
+              -598,
+              641,
+              -286
+            ],
+            [
+              659,
+              660,
+              661,
+              662
+            ],
+            [
+              [
+                663
+              ]
+            ],
+            [
+              [
+                664,
+                665
+              ]
+            ],
+            [
+              672,
+              -662,
+              673,
+              674,
+              -280
+            ],
+            [
+              684
+            ],
+            [
+              [
+                712
+              ]
+            ],
+            [
+              [
+                713
+              ]
+            ],
+            [
+              [
+                -675,
+                714,
+                715,
+                -92,
+                -595,
+                -281
+              ]
+            ],
+            [
+              -294,
+              720,
+              -292,
+              721
+            ],
+            [
+              [
+                738,
+                739
+              ]
+            ],
+            [
+              [
+                -587,
+                740,
+                -147,
+                741,
+                -144,
+                742
+              ]
+            ],
+            [
+              [
+                746
+              ]
+            ],
+            [
+              [
+                747
+              ]
+            ],
+            [
+              [
+                748
+              ]
+            ],
+            [
+              -594,
+              -284
+            ],
+            [
+              [
+                775
+              ]
+            ],
+            [
+              [
+                776
+              ]
+            ],
+            [
+              [
+                777
+              ]
+            ],
+            [
+              -642,
+              -597,
+              782,
+              -603,
+              -2,
+              -287
+            ],
+            [
+              [
+                787
+              ]
+            ],
+            [
+              [
+                788
+              ]
+            ],
+            [
+              [
+                789
+              ]
+            ],
+            [
+              [
+                790
+              ]
+            ],
+            [
+              [
+                791
+              ]
+            ],
+            [
+              [
+                792
+              ]
+            ],
+            [
+              [
+                793
+              ]
+            ],
+            [
+              [
+                794
+              ]
+            ],
+            [
+              [
+                795
+              ]
+            ],
+            [
+              [
+                796
+              ]
+            ],
+            [
+              [
+                797
+              ]
+            ],
+            [
+              [
+                798
+              ]
+            ],
+            [
+              [
+                799
+              ]
+            ],
+            [
+              [
+                800
+              ]
+            ],
+            [
+              [
+                801
+              ]
+            ],
+            [
+              [
+                802
+              ]
+            ],
+            [
+              [
+                803
+              ]
+            ],
+            [
+              [
+                804
+              ]
+            ],
+            [
+              [
+                805
+              ]
+            ],
+            [
+              [
+                806
+              ]
+            ],
+            [
+              [
+                807
+              ]
+            ],
+            [
+              [
+                808
+              ]
+            ],
+            [
+              [
+                809
+              ]
+            ],
+            [
+              [
+                810
+              ]
+            ],
+            [
+              [
+                811
+              ]
+            ],
+            [
+              [
+                812
+              ]
+            ],
+            [
+              [
+                813
+              ]
+            ],
+            [
+              [
+                814
+              ]
+            ],
+            [
+              [
+                -569,
+                815
+              ]
+            ],
+            [
+              [
+                816
+              ]
+            ],
+            [
+              [
+                817
+              ]
+            ],
+            [
+              [
+                818
+              ]
+            ],
+            [
+              824,
+              825,
+              -665,
+              826,
+              -275
+            ],
+            [
+              833
+            ],
+            [
+              [
+                840
+              ]
+            ],
+            [
+              [
+                841
+              ]
+            ],
+            [
+              [
+                842
+              ]
+            ],
+            [
+              [
+                843
+              ]
+            ],
+            [
+              [
+                844
+              ]
+            ],
+            [
+              [
+                845
+              ]
+            ],
+            [
+              [
+                846
+              ]
+            ],
+            [
+              [
+                -820,
+                847,
+                -688
+              ]
+            ],
+            [
+              [
+                848
+              ]
+            ],
+            [
+              [
+                849
+              ]
+            ],
+            [
+              [
+                850
+              ]
+            ],
+            [
+              [
+                851
+              ]
+            ],
+            [
+              [
+                852
+              ]
+            ],
+            [
+              [
+                853
+              ]
+            ],
+            [
+              [
+                854
+              ]
+            ],
+            [
+              [
+                855,
+                856
+              ]
+            ],
+            [
+              [
+                857,
+                -857
+              ]
+            ],
+            [
+              [
+                858
+              ]
+            ],
+            [
+              [
+                859
+              ]
+            ],
+            [
+              [
+                860
+              ]
+            ],
+            [
+              [
+                861
+              ]
+            ],
+            [
+              [
+                862
+              ]
+            ],
+            [
+              [
+                863
+              ]
+            ],
+            [
+              [
+                864
+              ]
+            ],
+            [
+              [
+                865
+              ]
+            ],
+            [
+              [
+                866
+              ]
+            ],
+            [
+              [
+                867
+              ]
+            ],
+            [
+              [
+                868
+              ]
+            ],
+            [
+              [
+                869,
+                -825,
+                -274,
+                870,
+                -295,
+                -722,
+                -291,
+                -651,
+                871,
+                -66,
+                -460,
+                872,
+                873,
+                -109,
+                -691,
+                -422,
+                874,
+                -420,
+                875,
+                -418,
+                876,
+                -430,
+                -768,
+                877
+              ]
+            ],
+            [
+              [
+                878
+              ]
+            ],
+            [
+              [
+                879
+              ]
+            ],
+            [
+              [
+                880
+              ]
+            ],
+            [
+              [
+                881
+              ]
+            ],
+            [
+              [
+                882
+              ]
+            ],
+            [
+              [
+                883
+              ]
+            ],
+            [
+              [
+                884
+              ]
+            ],
+            [
+              [
+                885
+              ]
+            ],
+            [
+              [
+                886
+              ]
+            ],
+            [
+              [
+                887
+              ]
+            ],
+            [
+              [
+                903
+              ]
+            ],
+            [
+              [
+                904
+              ]
+            ],
+            [
+              [
+                905
+              ]
+            ],
+            [
+              [
+                906
+              ]
+            ],
+            [
+              [
+                907
+              ]
+            ],
+            [
+              [
+                908
+              ]
+            ],
+            [
+              [
+                909
+              ]
+            ],
+            [
+              [
+                910
+              ]
+            ],
+            [
+              [
+                911
+              ]
+            ],
+            [
+              [
+                930
+              ]
+            ],
+            [
+              [
+                -674,
+                -661,
+                931,
+                -740,
+                932,
+                -715
+              ]
+            ],
+            [
+              -658,
+              -288,
+              -6,
+              933
+            ],
+            [
+              -4,
+              -602,
+              934,
+              -649,
+              935,
+              936,
+              937
+            ],
+            [
+              [
+                938,
+                -530
+              ]
+            ],
+            [
+              [
+                -532,
+                939
+              ]
+            ],
+            [
+              945
+            ],
+            [
+              -643,
+              1000,
+              -646,
+              -659,
+              -934,
+              -5,
+              -938,
+              1001,
+              -936,
+              -648,
+              1002
+            ],
+            [
+              [
+                1005
+              ]
+            ],
+            [
+              [
+                1006,
+                -663,
+                -673,
+                -279
+              ]
+            ],
+            [
+              [
+                1007
+              ]
+            ],
+            [
+              [
+                1008
+              ]
+            ],
+            [
+              [
+                1009
+              ]
+            ],
+            [
+              [
+                1010
+              ]
+            ],
+            [
+              [
+                1011
+              ]
+            ],
+            [
+              [
+                1012
+              ]
+            ],
+            [
+              [
+                1013
+              ]
+            ]
+          ]
+        },
+        {
+          "type": "MultiPolygon",
+          "properties": {
+            "id": "USA"
+          },
+          "arcs": [
+            [
+              [
+                961
+              ]
+            ],
+            [
+              [
+                962
+              ]
+            ],
+            [
+              [
+                963
+              ]
+            ],
+            [
+              [
+                964
+              ]
+            ],
+            [
+              [
+                965
+              ]
+            ],
+            [
+              [
+                966
+              ]
+            ],
+            [
+              [
+                967
+              ]
+            ],
+            [
+              [
+                968
+              ]
+            ],
+            [
+              [
+                969
+              ]
+            ],
+            [
+              [
+                970,
+                -201,
+                971,
+                -199,
+                972,
+                -197,
+                973,
+                -195,
+                -165,
+                974,
+                -163,
+                975,
+                -703,
+                976,
+                -701,
+                977,
+                -706,
+                978,
+                -203
+              ]
+            ],
+            [
+              [
+                979
+              ]
+            ],
+            [
+              [
+                980
+              ]
+            ],
+            [
+              [
+                982
+              ]
+            ],
+            [
+              [
+                983
+              ]
+            ],
+            [
+              [
+                984
+              ]
+            ],
+            [
+              [
+                985
+              ]
+            ],
+            [
+              [
+                986
+              ]
+            ],
+            [
+              [
+                987
+              ]
+            ],
+            [
+              [
+                988
+              ]
+            ],
+            [
+              [
+                989
+              ]
+            ],
+            [
+              [
+                990
+              ]
+            ],
+            [
+              [
+                991
+              ]
+            ],
+            [
+              [
+                992
+              ]
+            ],
+            [
+              [
+                993
+              ]
+            ],
+            [
+              [
+                994
+              ]
+            ],
+            [
+              [
+                995
+              ]
+            ],
+            [
+              [
+                996
+              ]
+            ],
+            [
+              [
+                997
+              ]
+            ],
+            [
+              [
+                998
+              ]
+            ],
+            [
+              [
+                -205,
+                999
+              ]
+            ]
+          ]
+        },
+        {
+          "type": "MultiPolygon",
+          "properties": {
+            "id": "CANADA"
+          },
+          "arcs": [
+            [
+              [158]
+            ],
+            [
+              [159]
+            ],
+            [
+              [160]
+            ],
+            [
+              [161, 162, 163, 164]
+            ],
+            [
+              [165]
+            ],
+            [
+              [166]
+            ],
+            [
+              [167]
+            ],
+            [
+              [168]
+            ],
+            [
+              [169]
+            ],
+            [
+              [170]
+            ],
+            [
+              [171]
+            ],
+            [
+              [172]
+            ],
+            [
+              [173]
+            ],
+            [
+              [174]
+            ],
+            [
+              [175]
+            ],
+            [
+              [176]
+            ],
+            [
+              [177]
+            ],
+            [
+              [178]
+            ],
+            [
+              [179]
+            ],
+            [
+              [180]
+            ],
+            [
+              [181]
+            ],
+            [
+              [182]
+            ],
+            [
+              [183]
+            ],
+            [
+              [184]
+            ],
+            [
+              [185]
+            ],
+            [
+              [186]
+            ],
+            [
+              [187]
+            ],
+            [
+              [188]
+            ],
+            [
+              [189]
+            ],
+            [
+              [190]
+            ],
+            [
+              [191]
+            ],
+            [
+              [192]
+            ],
+            [
+              [193]
+            ],
+            [
+              [194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205]
+            ],
+            [
+              [206]
+            ],
+            [
+              [207]
+            ],
+            [
+              [208]
+            ],
+            [
+              [209]
+            ],
+            [
+              [210]
+            ],
+            [
+              [211]
+            ],
+            [
+              [212]
+            ],
+            [
+              [213]
+            ],
+            [
+              [214]
+            ],
+            [
+              [215]
+            ],
+            [
+              [216]
+            ],
+            [
+              [217]
+            ],
+            [
+              [218]
+            ],
+            [
+              [219]
+            ],
+            [
+              [220]
+            ],
+            [
+              [221]
+            ],
+            [
+              [222]
+            ],
+            [
+              [223]
+            ],
+            [
+              [224]
+            ],
+            [
+              [225]
+            ],
+            [
+              [226]
+            ],
+            [
+              [227]
+            ],
+            [
+              [228]
+            ],
+            [
+              [229]
+            ],
+            [
+              [230]
+            ],
+            [
+              [231]
+            ],
+            [
+              [232]
+            ],
+            [
+              [233]
+            ],
+            [
+              [234]
+            ],
+            [
+              [235]
+            ],
+            [
+              [236]
+            ]
+          ]
+        }
+      ]
     }
   },
   "arcs": [
